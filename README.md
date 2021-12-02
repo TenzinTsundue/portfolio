@@ -12,3 +12,13 @@ website lacunched<br>
 - A&W Sales 
 3. Resume
 4. Contact
+
+
+Task to do
+- add resume
+- add project
+  - picture
+  - link to page(page content: Explaination, code, screenshot and visulization) 
+  - link to code(Github)
+- add contact mailing
+- add my picture (960x320)
