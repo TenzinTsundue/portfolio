@@ -1,6 +1,6 @@
 # portfolio-site
 
-[https://tenzintsundue.github.io/portfolio-site/](https://tenzintsundue.github.io/portfolio-site/)
+[https://tenzintsundue.github.io/portfolio-site/](https://tenzintsundue.github.io/portfolio/)
 ---
 website lacunched<br>
 [https://www.codewithtenzin.com/](https://www.codewithtenzin.com/)
